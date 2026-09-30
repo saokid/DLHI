@@ -1,1 +1,1212 @@
-do local DLHI=Instance.new("ScreenGui");local Credits=Instance.new("TextLabel");local Frame=Instance.new("Frame");local UICorner=Instance.new("UICorner");local Top=Instance.new("Frame");local TextLabel=Instance.new("TextLabel");local UICorner_2=Instance.new("UICorner");local UICorner_3=Instance.new("UICorner");local Holder=Instance.new("Frame");local UICorner_4=Instance.new("UICorner");local Main=Instance.new("Folder");local SpeedHolderFrame=Instance.new("Frame");local UICorner_5=Instance.new("UICorner");local NoclipFrame=Instance.new("Frame");local UICorner_6=Instance.new("UICorner");local Frame_2=Instance.new("Frame");local UICorner_7=Instance.new("UICorner");local colourframe=Instance.new("Frame");local UICorner_8=Instance.new("UICorner");local ImageButton=Instance.new("ImageButton");local UICorner_9=Instance.new("UICorner");local TextLabel_2=Instance.new("TextLabel");local ESPFrame=Instance.new("Frame");local UICorner_10=Instance.new("UICorner");local TextLabel_3=Instance.new("TextLabel");local Frame_3=Instance.new("Frame");local UICorner_11=Instance.new("UICorner");local colourframe_2=Instance.new("Frame");local UICorner_12=Instance.new("UICorner");local ImageButton_2=Instance.new("ImageButton");local UICorner_13=Instance.new("UICorner");local FullB=Instance.new("Frame");local UICorner_14=Instance.new("UICorner");local Frame_4=Instance.new("Frame");local UICorner_15=Instance.new("UICorner");local colourframe_3=Instance.new("Frame");local UICorner_16=Instance.new("UICorner");local ImageButton_3=Instance.new("ImageButton");local UICorner_17=Instance.new("UICorner");local TextLabel_4=Instance.new("TextLabel");DLHI.Name="DLHI";DLHI.Parent=game.Players.LocalPlayer:WaitForChild("PlayerGui");DLHI.ZIndexBehavior=Enum.ZIndexBehavior.Sibling;Credits.Name="Credits";Credits.Parent=DLHI;Credits.BackgroundColor3=Color3.fromRGB(255,255,255);Credits.BackgroundTransparency=1;Credits.BorderColor3=Color3.fromRGB(0,0,0);Credits.BorderSizePixel=0;Credits.Position=UDim2.new(0,0,0.872635543,0);Credits.Size=UDim2.new(0.218823522,0,0.126103401,0);Credits.Font=Enum.Font.FredokaOne;Credits.Text="Toggle V to disable UI/Enable UI, Have fun using this script :3  ---- SaoK, Reigns";Credits.TextColor3=Color3.fromRGB(255,255,255);Credits.TextScaled=true;Credits.TextSize=14;Credits.TextWrapped=true;Credits.TextXAlignment=Enum.TextXAlignment.Left;Credits.TextYAlignment=Enum.TextYAlignment.Top;Frame.Parent=DLHI;Frame.BackgroundColor3=Color3.fromRGB(0,0,0);Frame.BorderColor3=Color3.fromRGB(0,0,0);Frame.BorderSizePixel=0;Frame.Position=UDim2.new(0.213333338,0,0.214375794,0);Frame.Size=UDim2.new(0,559,0,421);UICorner.Parent=Frame;Top.Name="Top";Top.Parent=Frame;Top.BackgroundColor3=Color3.fromRGB(40,40,40);Top.BorderColor3=Color3.fromRGB(0,0,0);Top.BorderSizePixel=0;Top.Size=UDim2.new(0,559,0,41);TextLabel.Parent=Top;TextLabel.BackgroundColor3=Color3.fromRGB(255,255,255);TextLabel.BorderColor3=Color3.fromRGB(0,0,0);TextLabel.BorderSizePixel=0;TextLabel.Position=UDim2.new(0.0322003588,0,0.146341458,0);TextLabel.Size=UDim2.new(0,199,0,29);TextLabel.Font=Enum.Font.FredokaOne;TextLabel.Text="SaoK's Script Hub";TextLabel.TextColor3=Color3.fromRGB(0,0,0);TextLabel.TextScaled=true;TextLabel.TextSize=14;TextLabel.TextWrapped=true;UICorner_2.Parent=TextLabel;UICorner_3.Parent=Top;Holder.Name="Holder";Holder.Parent=Frame;Holder.BackgroundColor3=Color3.fromRGB(47,47,47);Holder.BorderColor3=Color3.fromRGB(0,0,0);Holder.BorderSizePixel=0;Holder.Position=UDim2.new(0.0465116277,0,0.177650437,0);Holder.Size=UDim2.new(0,509,0,328);UICorner_4.Parent=Holder;Main.Name="Main";Main.Parent=Holder;SpeedHolderFrame.Name="SpeedHolderFrame";SpeedHolderFrame.Parent=Main;SpeedHolderFrame.BackgroundColor3=Color3.fromRGB(255,255,255);SpeedHolderFrame.BorderColor3=Color3.fromRGB(0,0,0);SpeedHolderFrame.BorderSizePixel=0;SpeedHolderFrame.Position=UDim2.new(0.051080551,0,0.0377358496,0);SpeedHolderFrame.Size=UDim2.new(0,454,0,68);UICorner_5.Parent=SpeedHolderFrame;NoclipFrame.Name="NoclipFrame";NoclipFrame.Parent=Main;NoclipFrame.BackgroundColor3=Color3.fromRGB(255,255,255);NoclipFrame.BorderColor3=Color3.fromRGB(0,0,0);NoclipFrame.BorderSizePixel=0;NoclipFrame.Position=UDim2.new(0.051080551,0,0.309433967,0);NoclipFrame.Size=UDim2.new(0,454,0,62);UICorner_6.Parent=NoclipFrame;Frame_2.Parent=NoclipFrame;Frame_2.BackgroundColor3=Color3.fromRGB(0,0,0);Frame_2.BorderColor3=Color3.fromRGB(0,0,0);Frame_2.BorderSizePixel=0;Frame_2.Position=UDim2.new(0.634361207,0,0.13333334,0);Frame_2.Size=UDim2.new(0,100,0,47);UICorner_7.Parent=Frame_2;colourframe.Name="colourframe";colourframe.Parent=Frame_2;colourframe.BackgroundColor3=Color3.fromRGB(98,2,2);colourframe.BorderColor3=Color3.fromRGB(0,0,0);colourframe.BorderSizePixel=0;colourframe.Position=UDim2.new(0.0500000007,0,0.110340916,0);colourframe.Size=UDim2.new(0,90,0,33);UICorner_8.Parent=colourframe;ImageButton.Parent=colourframe;ImageButton.BackgroundColor3=Color3.fromRGB(255,0,0);ImageButton.BorderColor3=Color3.fromRGB(0,0,0);ImageButton.BorderSizePixel=0;ImageButton.Size=UDim2.new(0,35,0,33);UICorner_9.Parent=ImageButton;TextLabel_2.Parent=NoclipFrame;TextLabel_2.BackgroundColor3=Color3.fromRGB(255,255,255);TextLabel_2.BorderColor3=Color3.fromRGB(0,0,0);TextLabel_2.BorderSizePixel=0;TextLabel_2.Position=UDim2.new(0,0,0.0833333358,0);TextLabel_2.Size=UDim2.new(0,200,0,50);TextLabel_2.Font=Enum.Font.FredokaOne;TextLabel_2.Text="Noclip";TextLabel_2.TextColor3=Color3.fromRGB(0,0,0);TextLabel_2.TextScaled=true;TextLabel_2.TextSize=14;TextLabel_2.TextWrapped=true;ESPFrame.Name="ESPFrame";ESPFrame.Parent=Main;ESPFrame.BackgroundColor3=Color3.fromRGB(255,255,255);ESPFrame.BorderColor3=Color3.fromRGB(0,0,0);ESPFrame.BorderSizePixel=0;ESPFrame.Position=UDim2.new(0.051080551,0,0.566037714,0);ESPFrame.Size=UDim2.new(0,454,0,60);UICorner_10.Parent=ESPFrame;TextLabel_3.Parent=ESPFrame;TextLabel_3.BackgroundColor3=Color3.fromRGB(255,255,255);TextLabel_3.BorderColor3=Color3.fromRGB(0,0,0);TextLabel_3.BorderSizePixel=0;TextLabel_3.Position=UDim2.new(0,0,0.0833333358,0);TextLabel_3.Size=UDim2.new(0,200,0,50);TextLabel_3.Font=Enum.Font.FredokaOne;TextLabel_3.Text="Monster ESP";TextLabel_3.TextColor3=Color3.fromRGB(0,0,0);TextLabel_3.TextScaled=true;TextLabel_3.TextSize=14;TextLabel_3.TextWrapped=true;Frame_3.Parent=ESPFrame;Frame_3.BackgroundColor3=Color3.fromRGB(0,0,0);Frame_3.BorderColor3=Color3.fromRGB(0,0,0);Frame_3.BorderSizePixel=0;Frame_3.Position=UDim2.new(0.634361207,0,0.13333334,0);Frame_3.Size=UDim2.new(0,100,0,47);UICorner_11.Parent=Frame_3;colourframe_2.Name="colourframe";colourframe_2.Parent=Frame_3;colourframe_2.BackgroundColor3=Color3.fromRGB(98,2,2);colourframe_2.BorderColor3=Color3.fromRGB(0,0,0);colourframe_2.BorderSizePixel=0;colourframe_2.Position=UDim2.new(0.0500000007,0,0.110340916,0);colourframe_2.Size=UDim2.new(0,90,0,33);UICorner_12.Parent=colourframe_2;ImageButton_2.Parent=colourframe_2;ImageButton_2.BackgroundColor3=Color3.fromRGB(255,0,0);ImageButton_2.BorderColor3=Color3.fromRGB(0,0,0);ImageButton_2.BorderSizePixel=0;ImageButton_2.Size=UDim2.new(0,35,0,33);UICorner_13.Parent=ImageButton_2;FullB.Name="FullB";FullB.Parent=Main;FullB.BackgroundColor3=Color3.fromRGB(255,255,255);FullB.BorderColor3=Color3.fromRGB(0,0,0);FullB.BorderSizePixel=0;FullB.Position=UDim2.new(0.051080551,0,0.773584902,0);FullB.Size=UDim2.new(0,454,0,60);UICorner_14.Parent=FullB;Frame_4.Parent=FullB;Frame_4.BackgroundColor3=Color3.fromRGB(0,0,0);Frame_4.BorderColor3=Color3.fromRGB(0,0,0);Frame_4.BorderSizePixel=0;Frame_4.Position=UDim2.new(0.634361207,0,0.13333334,0);Frame_4.Size=UDim2.new(0,100,0,47);UICorner_15.Parent=Frame_4;colourframe_3.Name="colourframe";colourframe_3.Parent=Frame_4;colourframe_3.BackgroundColor3=Color3.fromRGB(98,2,2);colourframe_3.BorderColor3=Color3.fromRGB(0,0,0);colourframe_3.BorderSizePixel=0;colourframe_3.Position=UDim2.new(0.0500000007,0,0.110340916,0);colourframe_3.Size=UDim2.new(0,90,0,33);UICorner_16.Parent=colourframe_3;ImageButton_3.Parent=colourframe_3;ImageButton_3.BackgroundColor3=Color3.fromRGB(255,0,0);ImageButton_3.BorderColor3=Color3.fromRGB(0,0,0);ImageButton_3.BorderSizePixel=0;ImageButton_3.Size=UDim2.new(0,35,0,33);UICorner_17.Parent=ImageButton_3;TextLabel_4.Parent=FullB;TextLabel_4.BackgroundColor3=Color3.fromRGB(255,255,255);TextLabel_4.BorderColor3=Color3.fromRGB(0,0,0);TextLabel_4.BorderSizePixel=0;TextLabel_4.Position=UDim2.new(0,0,0.0833333358,0);TextLabel_4.Size=UDim2.new(0,200,0,50);TextLabel_4.Font=Enum.Font.FredokaOne;TextLabel_4.Text="Full Brightness";TextLabel_4.TextColor3=Color3.fromRGB(0,0,0);TextLabel_4.TextScaled=true;TextLabel_4.TextSize=14;TextLabel_4.TextWrapped=true;local function UXBNAQ_fake_script() local script=Instance.new("LocalScript",Frame);local UIS=game:GetService("UserInputService");local frame=script.Parent;local dragging=false;local dragStart;local startPos;frame.InputBegan:Connect(function(input) if (input.UserInputType==Enum.UserInputType.MouseButton1) then dragging=true;dragStart=input.Position;startPos=frame.Position;input.Changed:Connect(function() if (input.UserInputState==Enum.UserInputState.End) then dragging=false;end end);end end);UIS.InputChanged:Connect(function(input) if (dragging and (input.UserInputType==Enum.UserInputType.MouseMovement)) then local delta=input.Position-dragStart ;frame.Position=UDim2.new(startPos.X.Scale,startPos.X.Offset + delta.X ,startPos.Y.Scale,startPos.Y.Offset + delta.Y );end end);end coroutine.wrap(UXBNAQ_fake_script)();local function SECOG_fake_script() local script=Instance.new("LocalScript",Frame);local frame=script.Parent;local UserInputService=game:GetService("UserInputService");UserInputService.InputBegan:Connect(function(input,gameProcessed) if gameProcessed then return;end if (input.KeyCode==Enum.KeyCode.V) then frame.Visible= not frame.Visible;end end);end coroutine.wrap(SECOG_fake_script)();local function DMKCSV_fake_script() local script=Instance.new("LocalScript",SpeedHolderFrame);local frame=script.Parent;local Players=game:GetService("Players");local UserInputService=game:GetService("UserInputService");local player=Players.LocalPlayer;local MIN_SPEED=8;local MAX_SPEED=100;local DEFAULT_SPEED=16;local label=Instance.new("TextLabel");label.Name="SpeedLabel";label.Size=UDim2.new(1, -20,0,30);label.Position=UDim2.new(0,10,0,10);label.BackgroundTransparency=1;label.Text="Speed: "   .. DEFAULT_SPEED ;label.TextColor3=Color3.new(0,0,0);label.TextSize=20;label.Font=Enum.Font.GothamBold;label.Parent=frame;local slider=Instance.new("Frame");slider.Name="SpeedSlider";slider.Size=UDim2.new(1, -40,0,8);slider.Position=UDim2.new(0,20,0,55);slider.BackgroundColor3=Color3.fromRGB(80,80,80);slider.BorderSizePixel=0;slider.Parent=frame;local sliderCorner=Instance.new("UICorner");sliderCorner.CornerRadius=UDim.new(1,0);sliderCorner.Parent=slider;local fill=Instance.new("Frame");fill.Name="Fill";fill.Size=UDim2.new(0,0,1,0);fill.BackgroundColor3=Color3.fromRGB(0,170,255);fill.BorderSizePixel=0;fill.Parent=slider;local fillCorner=Instance.new("UICorner");fillCorner.CornerRadius=UDim.new(1,0);fillCorner.Parent=fill;local knob=Instance.new("TextButton");knob.Name="Knob";knob.Size=UDim2.new(0,24,0,24);knob.Position=UDim2.new(0, -12,0.5, -12);knob.BackgroundColor3=Color3.new(1,1,1);knob.BorderSizePixel=0;knob.Text="";knob.AutoButtonColor=false;knob.Parent=slider;local knobCorner=Instance.new("UICorner");knobCorner.CornerRadius=UDim.new(1,0);knobCorner.Parent=knob;local dragging=false;local function setSpeed(x) local sliderX=slider.AbsolutePosition.X;local sliderWidth=slider.AbsoluteSize.X;local percent=math.clamp((x-sliderX)/sliderWidth ,0,1);local speed=math.floor(MIN_SPEED + ((MAX_SPEED-MIN_SPEED) * percent) + 0.5 );knob.Position=UDim2.new(percent, -12,0.5, -12);fill.Size=UDim2.new(percent,0,1,0);label.Text="Speed: "   .. speed ;local character=player.Character;if character then local humanoid=character:FindFirstChildOfClass("Humanoid");if humanoid then humanoid.WalkSpeed=speed;end end end knob.InputBegan:Connect(function(input) if ((input.UserInputType==Enum.UserInputType.MouseButton1) or (input.UserInputType==Enum.UserInputType.Touch)) then dragging=true;end end);slider.InputBegan:Connect(function(input) if (input.UserInputType==Enum.UserInputType.MouseButton1) then setSpeed(input.Position.X);dragging=true;end end);UserInputService.InputChanged:Connect(function(input) if (dragging and ((input.UserInputType==Enum.UserInputType.MouseMovement) or (input.UserInputType==Enum.UserInputType.Touch))) then setSpeed(input.Position.X);end end);UserInputService.InputEnded:Connect(function(input) if ((input.UserInputType==Enum.UserInputType.MouseButton1) or (input.UserInputType==Enum.UserInputType.Touch)) then dragging=false;end end);task.wait();local defaultPercent=(DEFAULT_SPEED-MIN_SPEED)/(MAX_SPEED-MIN_SPEED) ;setSpeed(slider.AbsolutePosition.X + (defaultPercent * slider.AbsoluteSize.X) );end coroutine.wrap(DMKCSV_fake_script)();local function PFVRZ_fake_script() local script=Instance.new("LocalScript",Frame_2);local toggleFrame=script.Parent;local colorFrame=toggleFrame:WaitForChild("colourframe");local toggleKnob=colorFrame:WaitForChild("ImageButton");local Players=game:GetService("Players");local RunService=game:GetService("RunService");local TweenService=game:GetService("TweenService");local player=Players.LocalPlayer;local isOn=false;local knobSize=toggleKnob.Size.X.Offset;toggleKnob.MouseButton1Click:Connect(function() isOn= not isOn;local targetPosition;if isOn then colorFrame.BackgroundColor3=Color3.fromRGB(0,100,0);toggleKnob.BackgroundColor3=Color3.fromRGB(0,255,0);targetPosition=UDim2.new(1, -knobSize,0,0);else colorFrame.BackgroundColor3=Color3.fromRGB(83,0,0);toggleKnob.BackgroundColor3=Color3.fromRGB(255,0,0);targetPosition=UDim2.new(0,0,0,0);end local tween=TweenService:Create(toggleKnob,TweenInfo.new(0.25,Enum.EasingStyle.Quad,Enum.EasingDirection.Out),{Position=targetPosition});tween:Play();end);RunService.Stepped:Connect(function() if  not isOn then return;end local character=player.Character;if  not character then return;end for _,object in ipairs(character:GetDescendants()) do if object:IsA("BasePart") then object.CanCollide=false;end end end);end coroutine.wrap(PFVRZ_fake_script)();local function FGNA_fake_script() local script=Instance.new("LocalScript",Frame_3);local locust=workspace:WaitForChild("Locust");local toggleFrame=script.Parent;local colorFrame=toggleFrame:WaitForChild("colourframe");local toggleKnob=colorFrame:WaitForChild("ImageButton");local isOn=false;local highlight=Instance.new("Highlight");highlight.Name="LocustHighlight";highlight.Parent=locust;highlight.FillTransparency=1;highlight.OutlineTransparency=0;highlight.OutlineColor=Color3.fromRGB(255,255,255);highlight.Enabled=false;local tweenService=game:GetService("TweenService");local knobSize=toggleKnob.Size.X.Offset;toggleKnob.MouseButton1Click:Connect(function() isOn= not isOn;local targetPosition;if isOn then colorFrame.BackgroundColor3=Color3.fromRGB(0,100,0);toggleKnob.BackgroundColor3=Color3.fromRGB(0,255,0);highlight.Enabled=true;targetPosition=UDim2.new(1, -knobSize,0,0);else colorFrame.BackgroundColor3=Color3.fromRGB(83,0,0);toggleKnob.BackgroundColor3=Color3.fromRGB(255,0,0);highlight.Enabled=false;targetPosition=UDim2.new(0,0,0,0);end local tween=tweenService:Create(toggleKnob,TweenInfo.new(0.25,Enum.EasingStyle.Quad,Enum.EasingDirection.Out),{Position=targetPosition});tween:Play();end);end coroutine.wrap(FGNA_fake_script)();local function TJNF_fake_script() local script=Instance.new("LocalScript",Frame_4);local Lighting=game:GetService("Lighting");local originalBrightness=Lighting.Brightness;local originalClockTime=Lighting.ClockTime;local originalFogEnd=Lighting.FogEnd;local originalGlobalShadows=Lighting.GlobalShadows;local originalAmbient=Lighting.Ambient;local originalOutdoorAmbient=Lighting.OutdoorAmbient;local toggleFrame=script.Parent;local colorFrame=toggleFrame:WaitForChild("colourframe");local toggleKnob=colorFrame:WaitForChild("ImageButton");local isOn=false;local TweenService=game:GetService("TweenService");local knobSize=toggleKnob.Size.X.Offset;toggleKnob.MouseButton1Click:Connect(function() isOn= not isOn;local targetPosition;if isOn then colorFrame.BackgroundColor3=Color3.fromRGB(0,100,0);toggleKnob.BackgroundColor3=Color3.fromRGB(0,255,0);targetPosition=UDim2.new(1, -knobSize,0,0);task.spawn(function() while isOn do Lighting.Brightness=2;Lighting.ClockTime=14;Lighting.FogEnd=100000;Lighting.GlobalShadows=false;Lighting.Ambient=Color3.fromRGB(255,255,255);Lighting.OutdoorAmbient=Color3.fromRGB(255,255,255);task.wait(0.05);end end);else colorFrame.BackgroundColor3=Color3.fromRGB(83,0,0);toggleKnob.BackgroundColor3=Color3.fromRGB(255,0,0);targetPosition=UDim2.new(0,0,0,0);Lighting.Brightness=originalBrightness;Lighting.ClockTime=originalClockTime;Lighting.FogEnd=originalFogEnd;Lighting.GlobalShadows=originalGlobalShadows;Lighting.Ambient=originalAmbient;Lighting.OutdoorAmbient=originalOutdoorAmbient;end local tween=TweenService:Create(toggleKnob,TweenInfo.new(0.25,Enum.EasingStyle.Quad,Enum.EasingDirection.Out),{Position=targetPosition});tween:Play();end);end coroutine.wrap(TJNF_fake_script)(); end
+-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local DLHI = Instance.new("ScreenGui")
+local Credits = Instance.new("TextLabel")
+local Frame = Instance.new("Frame")
+local UICorner = Instance.new("UICorner")
+local Top = Instance.new("Frame")
+local TextLabel = Instance.new("TextLabel")
+local UICorner_2 = Instance.new("UICorner")
+local UICorner_3 = Instance.new("UICorner")
+local Idk = Instance.new("TextButton")
+local UICorner_4 = Instance.new("UICorner")
+local Others = Instance.new("TextButton")
+local UICorner_5 = Instance.new("UICorner")
+local Holder = Instance.new("Frame")
+local UICorner_6 = Instance.new("UICorner")
+local Main = Instance.new("Folder")
+local SpeedHolderFrame = Instance.new("Frame")
+local UICorner_7 = Instance.new("UICorner")
+local NoclipFrame = Instance.new("Frame")
+local UICorner_8 = Instance.new("UICorner")
+local Frame_2 = Instance.new("Frame")
+local UICorner_9 = Instance.new("UICorner")
+local colourframe = Instance.new("Frame")
+local UICorner_10 = Instance.new("UICorner")
+local ImageButton = Instance.new("ImageButton")
+local UICorner_11 = Instance.new("UICorner")
+local TextLabel_2 = Instance.new("TextLabel")
+local ESPFrame = Instance.new("Frame")
+local UICorner_12 = Instance.new("UICorner")
+local TextLabel_3 = Instance.new("TextLabel")
+local Frame_3 = Instance.new("Frame")
+local UICorner_13 = Instance.new("UICorner")
+local colourframe_2 = Instance.new("Frame")
+local UICorner_14 = Instance.new("UICorner")
+local ImageButton_2 = Instance.new("ImageButton")
+local UICorner_15 = Instance.new("UICorner")
+local FullB = Instance.new("Frame")
+local UICorner_16 = Instance.new("UICorner")
+local Frame_4 = Instance.new("Frame")
+local UICorner_17 = Instance.new("UICorner")
+local colourframe_3 = Instance.new("Frame")
+local UICorner_18 = Instance.new("UICorner")
+local ImageButton_3 = Instance.new("ImageButton")
+local UICorner_19 = Instance.new("UICorner")
+local TextLabel_4 = Instance.new("TextLabel")
+local PAGE1 = Instance.new("Folder")
+local FlyFrame = Instance.new("Frame")
+local UICorner_20 = Instance.new("UICorner")
+local Frame_5 = Instance.new("Frame")
+local UICorner_21 = Instance.new("UICorner")
+local colourframe_4 = Instance.new("Frame")
+local UICorner_22 = Instance.new("UICorner")
+local ImageButton_4 = Instance.new("ImageButton")
+local UICorner_23 = Instance.new("UICorner")
+local TextLabel_5 = Instance.new("TextLabel")
+local PlayerESPFrame = Instance.new("Frame")
+local UICorner_24 = Instance.new("UICorner")
+local Frame_6 = Instance.new("Frame")
+local UICorner_25 = Instance.new("UICorner")
+local colourframe_5 = Instance.new("Frame")
+local UICorner_26 = Instance.new("UICorner")
+local ImageButton_5 = Instance.new("ImageButton")
+local UICorner_27 = Instance.new("UICorner")
+local TextLabel_6 = Instance.new("TextLabel")
+
+--Properties:
+
+DLHI.Name = "DLHI"
+DLHI.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+DLHI.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+Credits.Name = "Credits"
+Credits.Parent = DLHI
+Credits.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Credits.BackgroundTransparency = 1.000
+Credits.BorderColor3 = Color3.fromRGB(0, 0, 0)
+Credits.BorderSizePixel = 0
+Credits.Position = UDim2.new(0, 0, 0.872635543, 0)
+Credits.Size = UDim2.new(0.218823522, 0, 0.126103401, 0)
+Credits.Font = Enum.Font.FredokaOne
+Credits.Text = "Toggle V to disable UI/Enable UI, Have fun using this script :3  ---- SaoK, Reigns"
+Credits.TextColor3 = Color3.fromRGB(255, 255, 255)
+Credits.TextScaled = true
+Credits.TextSize = 14.000
+Credits.TextWrapped = true
+Credits.TextXAlignment = Enum.TextXAlignment.Left
+Credits.TextYAlignment = Enum.TextYAlignment.Top
+
+Frame.Parent = DLHI
+Frame.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Frame.BorderColor3 = Color3.fromRGB(0, 0, 0)
+Frame.BorderSizePixel = 0
+Frame.Position = UDim2.new(0.213333338, 0, 0.214375794, 0)
+Frame.Size = UDim2.new(0, 559, 0, 421)
+
+UICorner.Parent = Frame
+
+Top.Name = "Top"
+Top.Parent = Frame
+Top.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
+Top.BorderColor3 = Color3.fromRGB(0, 0, 0)
+Top.BorderSizePixel = 0
+Top.Size = UDim2.new(0, 559, 0, 41)
+
+TextLabel.Parent = Top
+TextLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel.BorderColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel.BorderSizePixel = 0
+TextLabel.Position = UDim2.new(0.0322003588, 0, 0.146341458, 0)
+TextLabel.Size = UDim2.new(0, 199, 0, 29)
+TextLabel.Font = Enum.Font.FredokaOne
+TextLabel.Text = "SaoK's Script Hub"
+TextLabel.TextColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel.TextScaled = true
+TextLabel.TextSize = 14.000
+TextLabel.TextWrapped = true
+
+UICorner_2.Parent = TextLabel
+
+UICorner_3.Parent = Top
+
+Idk.Name = "Idk"
+Idk.Parent = Top
+Idk.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Idk.BorderColor3 = Color3.fromRGB(0, 0, 0)
+Idk.BorderSizePixel = 0
+Idk.Position = UDim2.new(0.406082302, 0, 0.146341458, 0)
+Idk.Size = UDim2.new(0, 78, 0, 29)
+Idk.Font = Enum.Font.FredokaOne
+Idk.Text = "Main"
+Idk.TextColor3 = Color3.fromRGB(0, 0, 0)
+Idk.TextScaled = true
+Idk.TextSize = 14.000
+Idk.TextWrapped = true
+
+UICorner_4.Parent = Idk
+
+Others.Name = "Others"
+Others.Parent = Top
+Others.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Others.BorderColor3 = Color3.fromRGB(0, 0, 0)
+Others.BorderSizePixel = 0
+Others.Position = UDim2.new(0.577817559, 0, 0.146341458, 0)
+Others.Size = UDim2.new(0, 78, 0, 29)
+Others.Font = Enum.Font.FredokaOne
+Others.Text = "Others"
+Others.TextColor3 = Color3.fromRGB(0, 0, 0)
+Others.TextScaled = true
+Others.TextSize = 14.000
+Others.TextWrapped = true
+
+UICorner_5.Parent = Others
+
+Holder.Name = "Holder"
+Holder.Parent = Frame
+Holder.BackgroundColor3 = Color3.fromRGB(47, 47, 47)
+Holder.BorderColor3 = Color3.fromRGB(0, 0, 0)
+Holder.BorderSizePixel = 0
+Holder.Position = UDim2.new(0.0465116277, 0, 0.177650437, 0)
+Holder.Size = UDim2.new(0, 509, 0, 328)
+
+UICorner_6.Parent = Holder
+
+Main.Name = "Main"
+Main.Parent = Holder
+
+SpeedHolderFrame.Name = "SpeedHolderFrame"
+SpeedHolderFrame.Parent = Main
+SpeedHolderFrame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+SpeedHolderFrame.BorderColor3 = Color3.fromRGB(0, 0, 0)
+SpeedHolderFrame.BorderSizePixel = 0
+SpeedHolderFrame.Position = UDim2.new(0.051080551, 0, 0.0377358496, 0)
+SpeedHolderFrame.Size = UDim2.new(0, 454, 0, 68)
+
+UICorner_7.Parent = SpeedHolderFrame
+
+NoclipFrame.Name = "NoclipFrame"
+NoclipFrame.Parent = Main
+NoclipFrame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+NoclipFrame.BorderColor3 = Color3.fromRGB(0, 0, 0)
+NoclipFrame.BorderSizePixel = 0
+NoclipFrame.Position = UDim2.new(0.051080551, 0, 0.309433967, 0)
+NoclipFrame.Size = UDim2.new(0, 454, 0, 62)
+
+UICorner_8.Parent = NoclipFrame
+
+Frame_2.Parent = NoclipFrame
+Frame_2.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Frame_2.BorderColor3 = Color3.fromRGB(0, 0, 0)
+Frame_2.BorderSizePixel = 0
+Frame_2.Position = UDim2.new(0.634361207, 0, 0.13333334, 0)
+Frame_2.Size = UDim2.new(0, 100, 0, 47)
+
+UICorner_9.Parent = Frame_2
+
+colourframe.Name = "colourframe"
+colourframe.Parent = Frame_2
+colourframe.BackgroundColor3 = Color3.fromRGB(98, 2, 2)
+colourframe.BorderColor3 = Color3.fromRGB(0, 0, 0)
+colourframe.BorderSizePixel = 0
+colourframe.Position = UDim2.new(0.0500000007, 0, 0.110340916, 0)
+colourframe.Size = UDim2.new(0, 90, 0, 33)
+
+UICorner_10.Parent = colourframe
+
+ImageButton.Parent = colourframe
+ImageButton.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+ImageButton.BorderColor3 = Color3.fromRGB(0, 0, 0)
+ImageButton.BorderSizePixel = 0
+ImageButton.Size = UDim2.new(0, 35, 0, 33)
+
+UICorner_11.Parent = ImageButton
+
+TextLabel_2.Parent = NoclipFrame
+TextLabel_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_2.BorderColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel_2.BorderSizePixel = 0
+TextLabel_2.Position = UDim2.new(0, 0, 0.0833333358, 0)
+TextLabel_2.Size = UDim2.new(0, 200, 0, 50)
+TextLabel_2.Font = Enum.Font.FredokaOne
+TextLabel_2.Text = "Noclip"
+TextLabel_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel_2.TextScaled = true
+TextLabel_2.TextSize = 14.000
+TextLabel_2.TextWrapped = true
+
+ESPFrame.Name = "ESPFrame"
+ESPFrame.Parent = Main
+ESPFrame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ESPFrame.BorderColor3 = Color3.fromRGB(0, 0, 0)
+ESPFrame.BorderSizePixel = 0
+ESPFrame.Position = UDim2.new(0.051080551, 0, 0.566037714, 0)
+ESPFrame.Size = UDim2.new(0, 454, 0, 60)
+
+UICorner_12.Parent = ESPFrame
+
+TextLabel_3.Parent = ESPFrame
+TextLabel_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_3.BorderColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel_3.BorderSizePixel = 0
+TextLabel_3.Position = UDim2.new(0, 0, 0.0833333358, 0)
+TextLabel_3.Size = UDim2.new(0, 200, 0, 50)
+TextLabel_3.Font = Enum.Font.FredokaOne
+TextLabel_3.Text = "Monster ESP"
+TextLabel_3.TextColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel_3.TextScaled = true
+TextLabel_3.TextSize = 14.000
+TextLabel_3.TextWrapped = true
+
+Frame_3.Parent = ESPFrame
+Frame_3.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Frame_3.BorderColor3 = Color3.fromRGB(0, 0, 0)
+Frame_3.BorderSizePixel = 0
+Frame_3.Position = UDim2.new(0.634361207, 0, 0.13333334, 0)
+Frame_3.Size = UDim2.new(0, 100, 0, 47)
+
+UICorner_13.Parent = Frame_3
+
+colourframe_2.Name = "colourframe"
+colourframe_2.Parent = Frame_3
+colourframe_2.BackgroundColor3 = Color3.fromRGB(98, 2, 2)
+colourframe_2.BorderColor3 = Color3.fromRGB(0, 0, 0)
+colourframe_2.BorderSizePixel = 0
+colourframe_2.Position = UDim2.new(0.0500000007, 0, 0.110340916, 0)
+colourframe_2.Size = UDim2.new(0, 90, 0, 33)
+
+UICorner_14.Parent = colourframe_2
+
+ImageButton_2.Parent = colourframe_2
+ImageButton_2.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+ImageButton_2.BorderColor3 = Color3.fromRGB(0, 0, 0)
+ImageButton_2.BorderSizePixel = 0
+ImageButton_2.Size = UDim2.new(0, 35, 0, 33)
+
+UICorner_15.Parent = ImageButton_2
+
+FullB.Name = "FullB"
+FullB.Parent = Main
+FullB.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FullB.BorderColor3 = Color3.fromRGB(0, 0, 0)
+FullB.BorderSizePixel = 0
+FullB.Position = UDim2.new(0.051080551, 0, 0.773584902, 0)
+FullB.Size = UDim2.new(0, 454, 0, 60)
+
+UICorner_16.Parent = FullB
+
+Frame_4.Parent = FullB
+Frame_4.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Frame_4.BorderColor3 = Color3.fromRGB(0, 0, 0)
+Frame_4.BorderSizePixel = 0
+Frame_4.Position = UDim2.new(0.634361207, 0, 0.13333334, 0)
+Frame_4.Size = UDim2.new(0, 100, 0, 47)
+
+UICorner_17.Parent = Frame_4
+
+colourframe_3.Name = "colourframe"
+colourframe_3.Parent = Frame_4
+colourframe_3.BackgroundColor3 = Color3.fromRGB(98, 2, 2)
+colourframe_3.BorderColor3 = Color3.fromRGB(0, 0, 0)
+colourframe_3.BorderSizePixel = 0
+colourframe_3.Position = UDim2.new(0.0500000007, 0, 0.110340916, 0)
+colourframe_3.Size = UDim2.new(0, 90, 0, 33)
+
+UICorner_18.Parent = colourframe_3
+
+ImageButton_3.Parent = colourframe_3
+ImageButton_3.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+ImageButton_3.BorderColor3 = Color3.fromRGB(0, 0, 0)
+ImageButton_3.BorderSizePixel = 0
+ImageButton_3.Size = UDim2.new(0, 35, 0, 33)
+
+UICorner_19.Parent = ImageButton_3
+
+TextLabel_4.Parent = FullB
+TextLabel_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_4.BorderColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel_4.BorderSizePixel = 0
+TextLabel_4.Position = UDim2.new(0, 0, 0.0833333358, 0)
+TextLabel_4.Size = UDim2.new(0, 200, 0, 50)
+TextLabel_4.Font = Enum.Font.FredokaOne
+TextLabel_4.Text = "Full Brightness"
+TextLabel_4.TextColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel_4.TextScaled = true
+TextLabel_4.TextSize = 14.000
+TextLabel_4.TextWrapped = true
+
+PAGE1.Name = "PAGE1"
+PAGE1.Parent = Holder
+
+FlyFrame.Name = "FlyFrame"
+FlyFrame.Parent = PAGE1
+FlyFrame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FlyFrame.BorderColor3 = Color3.fromRGB(0, 0, 0)
+FlyFrame.BorderSizePixel = 0
+FlyFrame.Position = UDim2.new(0.051080551, 0, 0.0563851334, 0)
+FlyFrame.Size = UDim2.new(0, 454, 0, 62)
+FlyFrame.Visible = false
+
+UICorner_20.Parent = FlyFrame
+
+Frame_5.Parent = FlyFrame
+Frame_5.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Frame_5.BorderColor3 = Color3.fromRGB(0, 0, 0)
+Frame_5.BorderSizePixel = 0
+Frame_5.Position = UDim2.new(0.634361207, 0, 0.13333334, 0)
+Frame_5.Size = UDim2.new(0, 100, 0, 47)
+
+UICorner_21.Parent = Frame_5
+
+colourframe_4.Name = "colourframe"
+colourframe_4.Parent = Frame_5
+colourframe_4.BackgroundColor3 = Color3.fromRGB(98, 2, 2)
+colourframe_4.BorderColor3 = Color3.fromRGB(0, 0, 0)
+colourframe_4.BorderSizePixel = 0
+colourframe_4.Position = UDim2.new(0.0500000007, 0, 0.110340916, 0)
+colourframe_4.Size = UDim2.new(0, 90, 0, 33)
+
+UICorner_22.Parent = colourframe_4
+
+ImageButton_4.Parent = colourframe_4
+ImageButton_4.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+ImageButton_4.BorderColor3 = Color3.fromRGB(0, 0, 0)
+ImageButton_4.BorderSizePixel = 0
+ImageButton_4.Size = UDim2.new(0, 35, 0, 33)
+
+UICorner_23.Parent = ImageButton_4
+
+TextLabel_5.Parent = FlyFrame
+TextLabel_5.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_5.BorderColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel_5.BorderSizePixel = 0
+TextLabel_5.Position = UDim2.new(0, 0, 0.0833333358, 0)
+TextLabel_5.Size = UDim2.new(0, 200, 0, 50)
+TextLabel_5.Font = Enum.Font.FredokaOne
+TextLabel_5.Text = "Fly"
+TextLabel_5.TextColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel_5.TextScaled = true
+TextLabel_5.TextSize = 14.000
+TextLabel_5.TextWrapped = true
+
+PlayerESPFrame.Name = "PlayerESPFrame"
+PlayerESPFrame.Parent = PAGE1
+PlayerESPFrame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+PlayerESPFrame.BorderColor3 = Color3.fromRGB(0, 0, 0)
+PlayerESPFrame.BorderSizePixel = 0
+PlayerESPFrame.Position = UDim2.new(0.051080551, 0, 0.31858027, 0)
+PlayerESPFrame.Size = UDim2.new(0, 454, 0, 62)
+PlayerESPFrame.Visible = false
+
+UICorner_24.Parent = PlayerESPFrame
+
+Frame_6.Parent = PlayerESPFrame
+Frame_6.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Frame_6.BorderColor3 = Color3.fromRGB(0, 0, 0)
+Frame_6.BorderSizePixel = 0
+Frame_6.Position = UDim2.new(0.634361207, 0, 0.13333334, 0)
+Frame_6.Size = UDim2.new(0, 100, 0, 47)
+
+UICorner_25.Parent = Frame_6
+
+colourframe_5.Name = "colourframe"
+colourframe_5.Parent = Frame_6
+colourframe_5.BackgroundColor3 = Color3.fromRGB(98, 2, 2)
+colourframe_5.BorderColor3 = Color3.fromRGB(0, 0, 0)
+colourframe_5.BorderSizePixel = 0
+colourframe_5.Position = UDim2.new(0.0500000007, 0, 0.110340916, 0)
+colourframe_5.Size = UDim2.new(0, 90, 0, 33)
+
+UICorner_26.Parent = colourframe_5
+
+ImageButton_5.Parent = colourframe_5
+ImageButton_5.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+ImageButton_5.BorderColor3 = Color3.fromRGB(0, 0, 0)
+ImageButton_5.BorderSizePixel = 0
+ImageButton_5.Size = UDim2.new(0, 35, 0, 33)
+
+UICorner_27.Parent = ImageButton_5
+
+TextLabel_6.Parent = PlayerESPFrame
+TextLabel_6.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_6.BorderColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel_6.BorderSizePixel = 0
+TextLabel_6.Position = UDim2.new(0, 0, 0.0833333358, 0)
+TextLabel_6.Size = UDim2.new(0, 200, 0, 50)
+TextLabel_6.Font = Enum.Font.FredokaOne
+TextLabel_6.Text = "Player ESP"
+TextLabel_6.TextColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel_6.TextScaled = true
+TextLabel_6.TextSize = 14.000
+TextLabel_6.TextWrapped = true
+
+-- Scripts:
+
+local function GFUMXVL_fake_script() -- Frame.LocalScript 
+	local script = Instance.new('LocalScript', Frame)
+
+	local UIS = game:GetService("UserInputService")
+	
+	local frame = script.Parent
+	
+	local dragging = false
+	local dragStart
+	local startPos
+	
+	frame.InputBegan:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseButton1 then
+			dragging = true
+			dragStart = input.Position
+			startPos = frame.Position
+	
+			input.Changed:Connect(function()
+				if input.UserInputState == Enum.UserInputState.End then
+					dragging = false
+				end
+			end)
+		end
+	end)
+	
+	UIS.InputChanged:Connect(function(input)
+		if dragging and input.UserInputType == Enum.UserInputType.MouseMovement then
+			local delta = input.Position - dragStart
+	
+			frame.Position = UDim2.new(
+				startPos.X.Scale,
+				startPos.X.Offset + delta.X,
+				startPos.Y.Scale,
+				startPos.Y.Offset + delta.Y
+			)
+		end
+	end)
+end
+coroutine.wrap(GFUMXVL_fake_script)()
+local function JCONSE_fake_script() -- Idk.LocalScript 
+	local script = Instance.new('LocalScript', Idk)
+
+	local button = script.Parent
+	
+	local holder = button.Parent.Parent.Holder
+	
+	button.MouseButton1Click:Connect(function()
+		holder.PAGE1.FlyFrame.Visible = false
+		holder.PAGE1.PlayerESPFrame.Visible= false
+		holder.Main.ESPFrame.Visible=true
+		holder.Main.FullB.Visible=true
+		holder.Main.NoclipFrame.Visible=true
+		holder.Main.SpeedHolderFrame.Visible=true
+		holder.Main.SpeedHolderFrame:WaitForChild("SpeedSlider").Visible=true
+		print("Works")
+	end)
+end
+coroutine.wrap(JCONSE_fake_script)()
+local function LEFMDBL_fake_script() -- Others.LocalScript 
+	local script = Instance.new('LocalScript', Others)
+
+	local button = script.Parent
+	
+	local holder = button.Parent.Parent:WaitForChild("Holder")
+	
+	button.MouseButton1Click:Connect(function()
+		holder.PAGE1.FlyFrame.Visible = true
+		holder.PAGE1.PlayerESPFrame.Visible = true
+	
+		holder.Main.ESPFrame.Visible = false
+		holder.Main.FullB.Visible = false
+		holder.Main.NoclipFrame.Visible = false
+		holder.Main.SpeedHolderFrame.Visible = false
+	
+		local speedSlider = holder.Main.SpeedHolderFrame:WaitForChild("SpeedSlider")
+		speedSlider.Visible = false
+	
+		print("Works")
+	end)
+end
+coroutine.wrap(LEFMDBL_fake_script)()
+local function PYQDVP_fake_script() -- Frame.LocalScript 
+	local script = Instance.new('LocalScript', Frame)
+
+	local frame = script.Parent
+	local UserInputService = game:GetService("UserInputService")
+	
+	UserInputService.InputBegan:Connect(function(input, gameProcessed)
+		if gameProcessed then return end
+	
+		if input.KeyCode == Enum.KeyCode.V then
+			frame.Visible = not frame.Visible
+		end
+	end)
+end
+coroutine.wrap(PYQDVP_fake_script)()
+local function ATAHH_fake_script() -- SpeedHolderFrame.LocalScript 
+	local script = Instance.new('LocalScript', SpeedHolderFrame)
+
+	local frame = script.Parent
+	
+	local Players = game:GetService("Players")
+	local UserInputService = game:GetService("UserInputService")
+	
+	local player = Players.LocalPlayer
+	
+	-- SETTINGS
+	local MIN_SPEED = 8
+	local MAX_SPEED = 100
+	local DEFAULT_SPEED = 16
+	
+	-- Speed label
+	local label = Instance.new("TextLabel")
+	label.Name = "SpeedLabel"
+	label.Size = UDim2.new(1, -20, 0, 30)
+	label.Position = UDim2.new(0, 10, 0, 10)
+	label.BackgroundTransparency = 1
+	label.Text = "Speed: " .. DEFAULT_SPEED
+	label.TextColor3 = Color3.new(0, 0, 0)
+	label.TextSize = 20
+	label.Font = Enum.Font.GothamBold
+	label.Parent = frame
+	
+	-- Slider
+	local slider = Instance.new("Frame")
+	slider.Name = "SpeedSlider"
+	slider.Size = UDim2.new(1, -40, 0, 8)
+	slider.Position = UDim2.new(0, 20, 0, 55)
+	slider.BackgroundColor3 = Color3.fromRGB(80, 80, 80)
+	slider.BorderSizePixel = 0
+	slider.Parent = frame
+	
+	local sliderCorner = Instance.new("UICorner")
+	sliderCorner.CornerRadius = UDim.new(1, 0)
+	sliderCorner.Parent = slider
+	
+	-- Filled part
+	local fill = Instance.new("Frame")
+	fill.Name = "Fill"
+	fill.Size = UDim2.new(0, 0, 1, 0)
+	fill.BackgroundColor3 = Color3.fromRGB(0, 170, 255)
+	fill.BorderSizePixel = 0
+	fill.Parent = slider
+	
+	local fillCorner = Instance.new("UICorner")
+	fillCorner.CornerRadius = UDim.new(1, 0)
+	fillCorner.Parent = fill
+	
+	-- Knob
+	local knob = Instance.new("TextButton")
+	knob.Name = "Knob"
+	knob.Size = UDim2.new(0, 24, 0, 24)
+	knob.Position = UDim2.new(0, -12, 0.5, -12)
+	knob.BackgroundColor3 = Color3.new(1, 1, 1)
+	knob.BorderSizePixel = 0
+	knob.Text = ""
+	knob.AutoButtonColor = false
+	knob.Parent = slider
+	
+	local knobCorner = Instance.new("UICorner")
+	knobCorner.CornerRadius = UDim.new(1, 0)
+	knobCorner.Parent = knob
+	
+	local dragging = false
+	
+	local function setSpeed(x)
+		local sliderX = slider.AbsolutePosition.X
+		local sliderWidth = slider.AbsoluteSize.X
+	
+		local percent = math.clamp(
+			(x - sliderX) / sliderWidth,
+			0,
+			1
+		)
+	
+		local speed = math.floor(
+			MIN_SPEED + (MAX_SPEED - MIN_SPEED) * percent + 0.5
+		)
+	
+		knob.Position = UDim2.new(percent, -12, 0.5, -12)
+		fill.Size = UDim2.new(percent, 0, 1, 0)
+	
+		label.Text = "Speed: " .. speed
+	
+		local character = player.Character
+		if character then
+			local humanoid = character:FindFirstChildOfClass("Humanoid")
+	
+			if humanoid then
+				humanoid.WalkSpeed = speed
+			end
+		end
+	end
+	
+	knob.InputBegan:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseButton1
+			or input.UserInputType == Enum.UserInputType.Touch then
+			dragging = true
+		end
+	end)
+	
+	slider.InputBegan:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseButton1 then
+			setSpeed(input.Position.X)
+			dragging = true
+		end
+	end)
+	
+	UserInputService.InputChanged:Connect(function(input)
+		if dragging and (
+			input.UserInputType == Enum.UserInputType.MouseMovement
+				or input.UserInputType == Enum.UserInputType.Touch
+			) then
+			setSpeed(input.Position.X)
+		end
+	end)
+	
+	UserInputService.InputEnded:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseButton1
+			or input.UserInputType == Enum.UserInputType.Touch then
+			dragging = false
+		end
+	end)
+	
+	-- Set default speed
+	task.wait()
+	local defaultPercent =
+		(DEFAULT_SPEED - MIN_SPEED) / (MAX_SPEED - MIN_SPEED)
+	
+	setSpeed(
+		slider.AbsolutePosition.X +
+			defaultPercent * slider.AbsoluteSize.X
+	)
+end
+coroutine.wrap(ATAHH_fake_script)()
+-- NoclipFrame.LocalScript is disabled.
+local function RUBCLJ_fake_script() -- Frame_2.LocalScript 
+	local script = Instance.new('LocalScript', Frame_2)
+
+	local toggleFrame = script.Parent
+	local colorFrame = toggleFrame:WaitForChild("colourframe")
+	local toggleKnob = colorFrame:WaitForChild("ImageButton")
+	
+	local Players = game:GetService("Players")
+	local RunService = game:GetService("RunService")
+	local TweenService = game:GetService("TweenService")
+	
+	local player = Players.LocalPlayer
+	local isOn = false
+	
+	local knobSize = toggleKnob.Size.X.Offset
+	
+	toggleKnob.MouseButton1Click:Connect(function()
+		isOn = not isOn
+	
+		local targetPosition
+	
+		if isOn then
+			-- ON
+			colorFrame.BackgroundColor3 = Color3.fromRGB(0, 100, 0)
+			toggleKnob.BackgroundColor3 = Color3.fromRGB(0, 255, 0)
+	
+			targetPosition = UDim2.new(1, -knobSize, 0, 0)
+		else
+			-- OFF
+			colorFrame.BackgroundColor3 = Color3.fromRGB(83, 0, 0)
+			toggleKnob.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+	
+			targetPosition = UDim2.new(0, 0, 0, 0)
+		end
+	
+		local tween = TweenService:Create(
+			toggleKnob,
+			TweenInfo.new(
+				0.25,
+				Enum.EasingStyle.Quad,
+				Enum.EasingDirection.Out
+			),
+			{
+				Position = targetPosition
+			}
+		)
+	
+		tween:Play()
+	end)
+	
+	-- Noclip
+	RunService.Stepped:Connect(function()
+		if not isOn then
+			return
+		end
+	
+		local character = player.Character
+	
+		if not character then
+			return
+		end
+	
+		for _, object in ipairs(character:GetDescendants()) do
+			if object:IsA("BasePart") then
+				object.CanCollide = false
+			end
+		end
+	end)
+end
+coroutine.wrap(RUBCLJ_fake_script)()
+-- ESPFrame.LocalScript is disabled.
+local function KCXJIZW_fake_script() -- Frame_3.LocalScript 
+	local script = Instance.new('LocalScript', Frame_3)
+
+	local locust = workspace:WaitForChild("Locust")
+	local toggleFrame = script.Parent 
+	local colorFrame = toggleFrame:WaitForChild("colourframe") 
+	local toggleKnob = colorFrame:WaitForChild("ImageButton") 
+	local isOn = false 
+	local highlight = Instance.new("Highlight")
+	highlight.Name = "LocustHighlight"
+	highlight.Parent = locust
+	highlight.FillTransparency = 1
+	highlight.OutlineTransparency = 0
+	highlight.OutlineColor = Color3.fromRGB(255, 255, 255)
+	highlight.Enabled = false
+	
+	local tweenService = game:GetService("TweenService") 
+	local knobSize = toggleKnob.Size.X.Offset 
+	
+	toggleKnob.MouseButton1Click:Connect(function() 
+		isOn = not isOn 
+	
+		local targetPosition 
+	
+		if isOn then
+			colorFrame.BackgroundColor3 = Color3.fromRGB(0, 100, 0) 
+			toggleKnob.BackgroundColor3 = Color3.fromRGB(0, 255, 0)
+			highlight.Enabled = true
+	
+			targetPosition = UDim2.new(1, -knobSize, 0, 0)
+		else  
+			colorFrame.BackgroundColor3 = Color3.fromRGB(83, 0, 0) 
+			toggleKnob.BackgroundColor3 = Color3.fromRGB(255, 0, 0) 
+			highlight.Enabled = false
+	
+			targetPosition = UDim2.new(0, 0, 0, 0)
+		end 
+	
+		local tween = tweenService:Create(
+			toggleKnob,
+			TweenInfo.new(
+				0.25,
+				Enum.EasingStyle.Quad,
+				Enum.EasingDirection.Out
+			),
+			{
+				Position = targetPosition
+			}
+		) 
+	
+		tween:Play()
+	end)
+end
+coroutine.wrap(KCXJIZW_fake_script)()
+-- FullB.LocalScript is disabled.
+local function FVAVTF_fake_script() -- Frame_4.LocalScript 
+	local script = Instance.new('LocalScript', Frame_4)
+
+	local Lighting = game:GetService("Lighting")
+	
+	-- Save original settings
+	local originalBrightness = Lighting.Brightness
+	local originalClockTime = Lighting.ClockTime
+	local originalFogEnd = Lighting.FogEnd
+	local originalGlobalShadows = Lighting.GlobalShadows
+	local originalAmbient = Lighting.Ambient
+	local originalOutdoorAmbient = Lighting.OutdoorAmbient
+	
+	local toggleFrame = script.Parent
+	local colorFrame = toggleFrame:WaitForChild("colourframe")
+	local toggleKnob = colorFrame:WaitForChild("ImageButton")
+	
+	local isOn = false
+	
+	local TweenService = game:GetService("TweenService")
+	local knobSize = toggleKnob.Size.X.Offset
+	
+	toggleKnob.MouseButton1Click:Connect(function()
+		isOn = not isOn
+	
+		local targetPosition
+	
+		if isOn then
+			-- ON
+			colorFrame.BackgroundColor3 = Color3.fromRGB(0, 100, 0)
+			toggleKnob.BackgroundColor3 = Color3.fromRGB(0, 255, 0)
+	
+			targetPosition = UDim2.new(1, -knobSize, 0, 0)
+	
+			-- Continuously force Full Bright
+			task.spawn(function()
+				while isOn do
+					Lighting.Brightness = 2
+					Lighting.ClockTime = 14
+					Lighting.FogEnd = 100000
+					Lighting.GlobalShadows = false
+					Lighting.Ambient = Color3.fromRGB(255, 255, 255)
+					Lighting.OutdoorAmbient = Color3.fromRGB(255, 255, 255)
+	
+					task.wait(0.05)
+				end
+			end)
+	
+		else
+			-- OFF
+			colorFrame.BackgroundColor3 = Color3.fromRGB(83, 0, 0)
+			toggleKnob.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+	
+			targetPosition = UDim2.new(0, 0, 0, 0)
+	
+			-- Restore original lighting
+			Lighting.Brightness = originalBrightness
+			Lighting.ClockTime = originalClockTime
+			Lighting.FogEnd = originalFogEnd
+			Lighting.GlobalShadows = originalGlobalShadows
+			Lighting.Ambient = originalAmbient
+			Lighting.OutdoorAmbient = originalOutdoorAmbient
+		end
+	
+		-- Animate knob
+		local tween = TweenService:Create(
+			toggleKnob,
+			TweenInfo.new(
+				0.25,
+				Enum.EasingStyle.Quad,
+				Enum.EasingDirection.Out
+			),
+			{
+				Position = targetPosition
+			}
+		)
+	
+		tween:Play()
+	end)
+end
+coroutine.wrap(FVAVTF_fake_script)()
+-- FlyFrame.LocalScript is disabled.
+local function ZGYIYB_fake_script() -- Frame_5.LocalScript 
+	local script = Instance.new('LocalScript', Frame_5)
+
+	local toggleFrame = script.Parent
+	local colorFrame = toggleFrame:WaitForChild("colourframe")
+	local toggleKnob = colorFrame:WaitForChild("ImageButton")
+	
+	local Players = game:GetService("Players")
+	local UserInputService = game:GetService("UserInputService")
+	local RunService = game:GetService("RunService")
+	local TweenService = game:GetService("TweenService")
+	
+	local player = Players.LocalPlayer
+	local isOn = false
+	
+	local knobSize = toggleKnob.Size.X.Offset
+	
+	-- Fly settings
+	local flySpeed = 60
+	local bodyVelocity
+	local bodyGyro
+	local flyConnection
+	
+	toggleKnob.MouseButton1Click:Connect(function()
+		isOn = not isOn
+	
+		local targetPosition
+	
+		if isOn then
+			-- ON
+			colorFrame.BackgroundColor3 = Color3.fromRGB(0, 100, 0)
+			toggleKnob.BackgroundColor3 = Color3.fromRGB(0, 255, 0)
+	
+			targetPosition = UDim2.new(1, -knobSize, 0, 0)
+	
+			-- Start flying
+			local character = player.Character
+			if character then
+				local humanoid = character:FindFirstChildOfClass("Humanoid")
+				local rootPart = character:FindFirstChild("HumanoidRootPart")
+	
+				if humanoid and rootPart then
+					humanoid.PlatformStand = true
+	
+					bodyVelocity = Instance.new("BodyVelocity")
+					bodyVelocity.MaxForce = Vector3.new(math.huge, math.huge, math.huge)
+					bodyVelocity.Velocity = Vector3.zero
+					bodyVelocity.Parent = rootPart
+	
+					bodyGyro = Instance.new("BodyGyro")
+					bodyGyro.MaxTorque = Vector3.new(math.huge, math.huge, math.huge)
+					bodyGyro.P = 9000
+					bodyGyro.D = 500
+					bodyGyro.CFrame = rootPart.CFrame
+					bodyGyro.Parent = rootPart
+	
+					flyConnection = RunService.RenderStepped:Connect(function()
+						if not isOn or not character.Parent then
+							return
+						end
+	
+						local camera = workspace.CurrentCamera
+						local direction = Vector3.zero
+	
+						-- WASD
+						if UserInputService:IsKeyDown(Enum.KeyCode.W) then
+							direction += camera.CFrame.LookVector
+						end
+	
+						if UserInputService:IsKeyDown(Enum.KeyCode.S) then
+							direction -= camera.CFrame.LookVector
+						end
+	
+						if UserInputService:IsKeyDown(Enum.KeyCode.A) then
+							direction -= camera.CFrame.RightVector
+						end
+	
+						if UserInputService:IsKeyDown(Enum.KeyCode.D) then
+							direction += camera.CFrame.RightVector
+						end
+	
+						-- Space = up
+						if UserInputService:IsKeyDown(Enum.KeyCode.Space) then
+							direction += Vector3.new(0, 1, 0)
+						end
+	
+						-- Left Ctrl = down
+						if UserInputService:IsKeyDown(Enum.KeyCode.LeftControl) then
+							direction -= Vector3.new(0, 1, 0)
+						end
+	
+						if direction.Magnitude > 0 then
+							direction = direction.Unit
+						end
+	
+						bodyVelocity.Velocity = direction * flySpeed
+	
+						-- Face the direction of the camera
+						bodyGyro.CFrame = CFrame.new(
+							rootPart.Position,
+							rootPart.Position + camera.CFrame.LookVector
+						)
+					end)
+				end
+			end
+	
+		else
+			-- OFF
+			colorFrame.BackgroundColor3 = Color3.fromRGB(83, 0, 0)
+			toggleKnob.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+	
+			targetPosition = UDim2.new(0, 0, 0, 0)
+	
+			-- Stop flying
+			if flyConnection then
+				flyConnection:Disconnect()
+				flyConnection = nil
+			end
+	
+			if bodyVelocity then
+				bodyVelocity:Destroy()
+				bodyVelocity = nil
+			end
+	
+			if bodyGyro then
+				bodyGyro:Destroy()
+				bodyGyro = nil
+			end
+	
+			local character = player.Character
+			if character then
+				local humanoid = character:FindFirstChildOfClass("Humanoid")
+				if humanoid then
+					humanoid.PlatformStand = false
+				end
+			end
+		end
+	
+		local tween = TweenService:Create(
+			toggleKnob,
+			TweenInfo.new(
+				0.25,
+				Enum.EasingStyle.Quad,
+				Enum.EasingDirection.Out
+			),
+			{
+				Position = targetPosition
+			}
+		)
+	
+		tween:Play()
+	end)
+end
+coroutine.wrap(ZGYIYB_fake_script)()
+-- PlayerESPFrame.LocalScript is disabled.
+local function ORWW_fake_script() -- Frame_6.LocalScript 
+	local script = Instance.new('LocalScript', Frame_6)
+
+	local toggleFrame = script.Parent
+	local colorFrame = toggleFrame:WaitForChild("colourframe")
+	local toggleKnob = colorFrame:WaitForChild("ImageButton")
+	
+	local Players = game:GetService("Players")
+	local TweenService = game:GetService("TweenService")
+	
+	local player = Players.LocalPlayer
+	local isOn = false
+	
+	local knobSize = toggleKnob.Size.X.Offset
+	
+	local espObjects = {}
+	
+	-- Create ESP for a player
+	local function createESP(targetPlayer)
+		if targetPlayer == player then
+			return
+		end
+	
+		local character = targetPlayer.Character
+		if not character then
+			return
+		end
+	
+		-- Remove old ESP if it exists
+		if espObjects[targetPlayer] then
+			for _, object in ipairs(espObjects[targetPlayer]) do
+				if object and object.Parent then
+					object:Destroy()
+				end
+			end
+		end
+	
+		espObjects[targetPlayer] = {}
+	
+		-- Outline
+		local highlight = Instance.new("Highlight")
+		highlight.Name = "PlayerESP"
+		highlight.FillColor = Color3.fromRGB(255, 0, 0)
+		highlight.FillTransparency = 0.75
+		highlight.OutlineColor = Color3.fromRGB(255, 0, 0)
+		highlight.OutlineTransparency = 0
+		highlight.DepthMode = Enum.HighlightDepthMode.AlwaysOnTop
+		highlight.Adornee = character
+		highlight.Parent = character
+	
+		table.insert(espObjects[targetPlayer], highlight)
+	
+		-- Username
+		local head = character:FindFirstChild("Head")
+	
+		if head then
+			local billboard = Instance.new("BillboardGui")
+			billboard.Name = "UsernameESP"
+			billboard.Size = UDim2.new(0, 200, 0, 50)
+			billboard.StudsOffset = Vector3.new(0, 3, 0)
+			billboard.AlwaysOnTop = true
+			billboard.MaxDistance = 1000
+			billboard.Adornee = head
+			billboard.Parent = head
+	
+			local username = Instance.new("TextLabel")
+			username.Size = UDim2.new(1, 0, 1, 0)
+			username.BackgroundTransparency = 1
+			username.Text = targetPlayer.Name
+			username.TextColor3 = Color3.fromRGB(255, 255, 255)
+			username.TextStrokeTransparency = 0
+			username.TextStrokeColor3 = Color3.fromRGB(0, 0, 0)
+			username.TextScaled = true
+			username.Font = Enum.Font.GothamBold
+			username.Parent = billboard
+	
+			table.insert(espObjects[targetPlayer], billboard)
+		end
+	end
+	
+	-- Remove ESP
+	local function removeESP(targetPlayer)
+		if espObjects[targetPlayer] then
+			for _, object in ipairs(espObjects[targetPlayer]) do
+				if object and object.Parent then
+					object:Destroy()
+				end
+			end
+	
+			espObjects[targetPlayer] = nil
+		end
+	end
+	
+	-- Create ESP for everyone
+	local function enableESP()
+		for _, targetPlayer in ipairs(Players:GetPlayers()) do
+			if targetPlayer ~= player then
+				createESP(targetPlayer)
+			end
+		end
+	end
+	
+	-- Remove all ESP
+	local function disableESP()
+		for targetPlayer, _ in pairs(espObjects) do
+			removeESP(targetPlayer)
+		end
+	end
+	
+	-- Toggle
+	toggleKnob.MouseButton1Click:Connect(function()
+		isOn = not isOn
+	
+		local targetPosition
+	
+		if isOn then
+			-- ON
+			colorFrame.BackgroundColor3 = Color3.fromRGB(0, 100, 0)
+			toggleKnob.BackgroundColor3 = Color3.fromRGB(0, 255, 0)
+	
+			targetPosition = UDim2.new(1, -knobSize, 0, 0)
+	
+			enableESP()
+		else
+			-- OFF
+			colorFrame.BackgroundColor3 = Color3.fromRGB(83, 0, 0)
+			toggleKnob.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+	
+			targetPosition = UDim2.new(0, 0, 0, 0)
+	
+			disableESP()
+		end
+	
+		local tween = TweenService:Create(
+			toggleKnob,
+			TweenInfo.new(
+				0.25,
+				Enum.EasingStyle.Quad,
+				Enum.EasingDirection.Out
+			),
+			{
+				Position = targetPosition
+			}
+		)
+	
+		tween:Play()
+	end)
+	
+	-- New players
+	Players.PlayerAdded:Connect(function(targetPlayer)
+		targetPlayer.CharacterAdded:Connect(function()
+			if isOn then
+				task.wait(0.5)
+				createESP(targetPlayer)
+			end
+		end)
+	end)
+	
+	-- Existing players respawning
+	for _, targetPlayer in ipairs(Players:GetPlayers()) do
+		if targetPlayer ~= player then
+			targetPlayer.CharacterAdded:Connect(function()
+				if isOn then
+					task.wait(0.5)
+					createESP(targetPlayer)
+				end
+			end)
+		end
+	end
+	
+	-- Player leaves
+	Players.PlayerRemoving:Connect(function(targetPlayer)
+		removeESP(targetPlayer)
+	end)
+end
+coroutine.wrap(ORWW_fake_script)()
